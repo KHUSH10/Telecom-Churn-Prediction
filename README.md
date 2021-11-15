@@ -1,0 +1,2 @@
+# Telecom-Churn-Prediction
+Churn prediction and analysis for telecom customer dataset was performed. – Highest Churn was observed for features like Month to Month contracts, No online security, No Tech support, first year of subscription and fiber optics internet. – Model was developed using Random Forest Classifier and SMOOTE-ENN (SMOOTE for oversampling and ENN for cleaning) was applied over it to overcome imbalanced dataset issue. Accuracy of 92% was observed.
